@@ -1,0 +1,6 @@
+--2025-02-01 15:32:14--  https://imagesvc.meredithcorp.io/v3/mm/image?url=h%E2%80%A6F5787099.jpg
+Resolving imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)... 146.75.74.137
+Connecting to imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)|146.75.74.137|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2025-02-01 15:32:14 ERROR 400: Bad Request.
+
